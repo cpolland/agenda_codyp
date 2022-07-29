@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 16px;
     line-height: 1;
   }
@@ -18,7 +18,7 @@ body {
     background-color: transparent;
     color: black;
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid rgb(51, 68, 53);
   }
   
   .description {
@@ -33,35 +33,36 @@ body {
   .row {
     white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;
+    border-top: 2px solid rgb(51, 68, 53);
   }
   
   .hour {
-    background-color: #ffffff;
-    color: #000000;
-    border-top: 1px dashed #000000;
+    background-color: rgb(51, 68, 53);
+    color: #ffffff;
+    font-size: 20px;
+    border-top: 1px dashed #ffffff;
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #c6bdbd;
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #6ab3ca;
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #99c099;
     color: white;
   }
   
   .saveBtn {
-    border-left: 1px solid black;
+    border-left: 2px solid rgb(51, 68, 53);
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color: rgb(177, 115, 125);
     color: white;
   }
   
