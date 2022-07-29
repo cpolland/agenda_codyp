@@ -2,7 +2,7 @@
 
 ## Description
 
-For this project I wanted to create a project that took advantage of using momen.js that I could also benifit from in my every day life. I decided to create this daily agenda to help me stay orginized and keep me on top of my daily reqirments. The app's shining feature is the time and date feature that displays and changes color of each time slot depending on the time. This app also makes use of local storage to save each item in every given time slot. 
+For this project I wanted to create a project that took advantage of using momen.js that I could also benifit from in my every day life. I decided to create this daily agenda to help me stay orginized and keep me on top of my daily reqirments. The app's shining feature is the time and date feature that displays and changes color of each time slot depending on the time. This app also makes use of local storage to save each item in every given time slot. For styleing and page layout I used Bootstrap and CSS. 
 
 ## Installation
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template in VS Code. 
@@ -35,7 +35,7 @@ This was a solo project worked on by Cody Polland.
 
 ![badmath](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badmath](https://badges.aleen42.com/src/javascript.svg)
-![badmath](https://stackoverflow.com/help/badges/6027/momentjs)
+![badmath](https://badgen.net/badge/:Made%20with/:Moment.js/:red?icon=github)
 
 ## Features
 - Date at the top updates to the current day.
