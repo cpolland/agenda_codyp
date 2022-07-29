@@ -35,6 +35,7 @@ This was a solo project worked on by Cody Polland.
 
 ![badmath](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badmath](https://badges.aleen42.com/src/javascript.svg)
+![badmath](https://stackoverflow.com/help/badges/6027/momentjs)
 
 ## Features
 - Date at the top updates to the current day.
